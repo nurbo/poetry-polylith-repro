@@ -1,0 +1,6 @@
+[virtualenvs]
+path = ".venv"
+in-project = true
+
+[installer]
+modern-installation = false
